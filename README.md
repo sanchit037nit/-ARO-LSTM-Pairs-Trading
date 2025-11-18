@@ -198,6 +198,6 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 <div align="center">
 
-**Built by [Navya](https://github.com/navya1009)** · If you found this useful, consider giving it a ⭐
+**Built by [Sanchit](https://github.com/sanchit037nit)** · If you found this useful, consider giving it a ⭐
 
 </div>
