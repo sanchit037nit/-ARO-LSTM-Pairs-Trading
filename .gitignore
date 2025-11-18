@@ -1,0 +1,26 @@
+# Python environment
+venv/
+env/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# VS Code specific
+.vscode/
+
+# Optional: Large data or model files 
+# (Uncomment the lines below if you want to keep them local only)
+# HF_DATASET.csv
+# aro_lstm_model.keras
+# zscore_scaler.pkl
